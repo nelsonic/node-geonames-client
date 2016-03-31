@@ -12,9 +12,9 @@
     },
   "auth": "Pascal Laenen <plaenen@gmail.com>",
   "dependencies": {
-    "argh": "^0.1.3",
-    "request": "^2.40.0",
-    "xml2js": "^0.4.4"
+    "argh": "^0.1.4",
+    "request": "^2.69.0",
+    "xml2js": "^0.4.16"
   },
   "devDependencies": {
     "istanbul": "^0.3.0",
